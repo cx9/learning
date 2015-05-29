@@ -1,3 +1,7 @@
 test push
 
 modify on branch master
+
+modify on branch dev
+
+merged master & dev
