@@ -9,3 +9,5 @@ merged master & dev
 modify a bug on issue-01
 
 modify on dev
+&
+modify on dev by other
